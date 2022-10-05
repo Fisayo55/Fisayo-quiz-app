@@ -9,7 +9,7 @@ https://aof-trivia-app.netlify.app/
 # Status
 
 finished for now but new features to be added:
-Save highscore to local storage
+Save highscore to local storage and
 selects the correct answers if users selects the wrong option
 
 # Usage
